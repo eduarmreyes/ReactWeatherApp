@@ -15,6 +15,16 @@ svg {
 	height: 150px;
 }
 
+.btn-info {
+	background-color: #3c8dbc;
+}
+
 .input-group {
 	margin: 20px 0px;
+}
+
+.table-info,
+.table-hover .table-info:hover {
+	background-color: #3c8dbc;
+	color: white;
 }
